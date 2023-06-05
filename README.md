@@ -28,7 +28,7 @@ I am a student and a learner from Odisha, currently completed Geekster Spring Bo
   </a>
   &nbsp;
   <a href="https://www.hackerrank.com/prasantkumarsah1?hr_r=1">
-  <img align="middle" alt="Prasant Kumar Sahu || Hackerrank" width="24px" src="https://github.com/prasantkumarsahu/assets/blob/c85a797c524b96a5bddb250eeedbe51076261e8c/logos/hackerrank_logo.png" />
+  <img align="middle" alt="Prasant Kumar Sahu || Hackerrank" width="24px" src="https://github.com/prasantkumarsahu/assets/blob/16981b1c9399051a2a07a03fc86ea2c41686ca7f/logos/hackerrank_logo.svg" />
 </a>
 &nbsp;
   <a href="mailto:prasantkumarsahu0103@gmail.com">
