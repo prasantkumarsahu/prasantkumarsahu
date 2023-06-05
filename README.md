@@ -3,7 +3,7 @@
 
 ## About me :mortar_board:
 
-I am a student and a learner from Odisha, currently completed Geekster Spring Boot course after completeing my Graduation in BSc Computer Science, Odisha. I believe in exercising both for the ming and body. With lifting weights and working out is to the body, and logical reasoning is to the mind. I'm coding and learnig new technologies because that's why we are humans to **Learn**. Happy Learning! :smile:
+I am a student and a learner from Odisha, recently completed Geekster Spring Boot course after completeing my Graduation in BSc Computer Science in 2022, Odisha. I believe in exercising for both the ming and body. With lifting weights and working out is to the body, and logical reasoning is to the mind. I'm coding and learnig new technologies because that's why we are humans to **Learn**. Happy Learning! :smile:
 
 ## What I know :computer:
 
