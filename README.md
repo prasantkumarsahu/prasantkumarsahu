@@ -24,7 +24,7 @@ I am a student and a learner from Odisha, recently completed Geekster Spring Boo
 
 #### LOVE : Developement, building Projects, and learning new tech
 
-## Reach me
+## Reach me :rocket:
 
 <a href="https://www.linkedin.com/in/prasantkumarsahu/">
     <img align="left" alt="Prasant Kumar Sahu | Linkedin" width="24px" src="https://media.giphy.com/media/yDM1kJZthxFPoGDdmq/giphy.gif" />
