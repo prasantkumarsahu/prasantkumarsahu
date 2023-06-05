@@ -13,6 +13,9 @@ I am a student and a learner from Odisha, currently completed Geekster Spring Bo
   - Rest APIs
   - MVC
 - **SQL**
+- **HTML**
+- **JavaScript**
+- **CSS**
 - **Git**
 
 ## What I want to do next :thinking:
@@ -26,7 +29,6 @@ I am a student and a learner from Odisha, currently completed Geekster Spring Bo
 <a href="https://www.linkedin.com/in/prasantkumarsahu/">
     <img align="left" alt="Prasant Kumar Sahu | Linkedin" width="24px" src="https://media.giphy.com/media/yDM1kJZthxFPoGDdmq/giphy.gif" />
   </a>
-  <span>  </span>
   <a href="mailto:prasantkumarsahu0103@gmail.com">
     <img align="left" alt="Prasant Kumar Sahu | Gmail" width="26px" src="https://media.giphy.com/media/k3BaWknGtoURRum0hJ/giphy.gif" />
   </a>
