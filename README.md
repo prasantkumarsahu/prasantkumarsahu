@@ -1,9 +1,9 @@
-<div><img align="right" alt="GIF" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="200vw" /></div><br>
-# Hello! Welcome to my github 👋
+<img align="right" alt="GIF" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="200vw" /><br>
+# Hello! Welcome to my GitHub 👋
 
 ## About me :mortar_board:
 
-I am a student and a learner from Odisha, recently completed Geekster Spring Boot course after completeing my Graduation in BSc Computer Science in 2022, Odisha. I believe in exercising for both the ming and body. With lifting weights and working out is to the body, and logical reasoning is to the mind. I'm coding and learnig new technologies because that's why we are humans to **Learn**. Happy Learning! :smile:
+I am a student and a learner from Odisha, recently completed the Geekster Spring Boot course after completing my Graduation in BSc Computer Science in 2022, Odisha. I believe in exercise for both the mind and body. With lifting weights and working out is to the body, and logical reasoning is to the mind. I'm coding and learning new technologies because that's why we are humans **Learn**. Happy Learning! :smile:
 
 ## What I know :computer:
 
@@ -20,7 +20,7 @@ I am a student and a learner from Odisha, recently completed Geekster Spring Boo
 
 ## What I want to do next :thinking:
 
-- More learn and create projects on Spring Boot and enhance my skills about backend developement. And keep learning new technologies, because _change is the only constatnt_.
+- More learn and create Spring Boot projects and enhance my backend development skills. And keep learning new technologies, because _change is the only constant_.
 
 #### LOVE : Developement, building Projects, and learning new tech
 
